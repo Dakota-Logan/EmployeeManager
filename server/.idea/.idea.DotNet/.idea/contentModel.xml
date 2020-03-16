@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Xeliu\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_DotNet.-763321011.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\@types" t="IncludeRecursive">
+      <e p="events" t="IncludeRecursive" />
+      <e p="minimatch" t="IncludeRecursive" />
+      <e p="node" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\@vue\cli-plugin-babel" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\@vue\cli-plugin-eslint" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\@vue\cli-service" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\@vue\component-compiler-utils" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\acorn-walk" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\address" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\babel-eslint" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\chalk" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\cli-highlight" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\commander" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\core-js" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\dotenv" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\dotenv-expand" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\eslint" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\eslint-plugin-vue" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\javascript-stringify" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\portfinder" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\postcss" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\postcss-selector-parser" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\source-map" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\terser" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\vue" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\vue-loader" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\vue-template-compiler" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\client\node_modules\webpack-chain" t="IncludeRecursive" />
+    <e p="C:\Users\Xeliu\RiderProjects\EmployeManager\server" t="IncludeFlat">
+      <e p="DotNet" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="EmployeeController.cs" t="Include" />
+        </e>
+        <e p="DotNet.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="Employee.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DotNet.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Repositories" t="Include" />
+        <e p="Services" t="Include">
+          <e p="EmployeeService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WeatherForecast.cs" t="Include" />
+      </e>
+      <e p="DotNet.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
