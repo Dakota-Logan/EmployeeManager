@@ -11,3 +11,8 @@
 	<li>Perfomance tracking</li>
 	<li>Salary management</li>
 </ul>
+
+Business Logic: 
+<ul>
+    <li>Users have personal accounts and have permisions between employees and admins. The user model is also how all account veiws are formated.</li>
+</ul>
